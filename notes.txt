@@ -1,0 +1,8 @@
+Regarding translation:
+
+translate the pages and serve those pages depending on the origin of the user coming to your website.
+make a JSON file for each language and then according to page settings load the relevant file.
+multiplied number of URL
+
+URL
+use gTLD (e.g. ".com"); use Google Webmaster's Tools manual geotargeting: Set Geographic Target; use language tag not region. Use subdirectories (e.g. looplap.com/index/jp/)
